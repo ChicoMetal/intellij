@@ -1,0 +1,9 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateGradleToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+</keymap>

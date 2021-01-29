@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="JavaDoc" value="/**&#10; *&#10; * @user ${USER}&#10; * @date ${DATE}&#10; * @param ${tags}&#10;**/" description="Java Documentation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
