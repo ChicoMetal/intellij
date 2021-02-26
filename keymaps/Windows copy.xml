@@ -5,6 +5,9 @@
   <action id="ExternalSystem_cfd2b1a0vivirelaprendizajecfd2b1a0bootRun">
     <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
   </action>
+  <action id="ExternalSystem_d4d600b7nominad4d600b7bootRun">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
